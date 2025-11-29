@@ -1,7 +1,7 @@
-body, div, p, h1, h2, h3, a, li {
+body, div, p, h1, h2, h3, a, li, td {
   font-family: Lucida Grande,Verdana,Helvetica,Arial,sans-serif;
+  font-size: 14px;
 }
-body { font-size: 14px; }
 .footnote { font-size: 12px; }
 .centre { text-align: center; }
 a { text-decoration:none; }
